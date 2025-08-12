@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: me.dio.desafio_de_projeto1_DT2025.DesafioDeProjeto1Dt2025ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.985 s -- in me.dio.desafio_de_projeto1_DT2025.DesafioDeProjeto1Dt2025ApplicationTests

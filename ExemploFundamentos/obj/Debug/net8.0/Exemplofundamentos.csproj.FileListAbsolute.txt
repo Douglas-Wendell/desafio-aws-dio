@@ -1,0 +1,14 @@
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\bin\Debug\net8.0\Exemplofundamentos.exe
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\bin\Debug\net8.0\Exemplofundamentos.deps.json
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\bin\Debug\net8.0\Exemplofundamentos.runtimeconfig.json
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\bin\Debug\net8.0\Exemplofundamentos.dll
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\bin\Debug\net8.0\Exemplofundamentos.pdb
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.AssemblyInfoInputs.cache
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.AssemblyInfo.cs
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.csproj.CoreCompileInputs.cache
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.dll
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\obj\Debug\net8.0\refint\Exemplofundamentos.dll
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.pdb
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.genruntimeconfig.cache
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\Exemplofundamentos\obj\Debug\net8.0\ref\Exemplofundamentos.dll

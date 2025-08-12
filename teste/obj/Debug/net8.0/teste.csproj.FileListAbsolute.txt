@@ -1,0 +1,14 @@
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\bin\Debug\net8.0\teste.exe
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\bin\Debug\net8.0\teste.deps.json
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\bin\Debug\net8.0\teste.runtimeconfig.json
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\bin\Debug\net8.0\teste.dll
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\bin\Debug\net8.0\teste.pdb
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\obj\Debug\net8.0\teste.dll
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\obj\Debug\net8.0\refint\teste.dll
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\obj\Debug\net8.0\teste.pdb
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\damry\OneDrive\Documentos\Desenvolvimento\Projetos\DIO\teste\obj\Debug\net8.0\ref\teste.dll
